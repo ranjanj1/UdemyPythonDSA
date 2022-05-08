@@ -8,3 +8,4 @@ def factorial_itr(n):
 num = input('Enter Number: ')
 n = int(num)
 print('Factorial: ', factorial_itr(n))
+
